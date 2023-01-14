@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: rich77926/simple-mvc:v1
+  repository: rich77926/simple-mvc
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
