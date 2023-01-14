@@ -3,7 +3,17 @@ entries:
   simple-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-14T19:12:28.584457+08:00"
+    created: "2023-01-14T19:46:43.305832+08:00"
+    description: A Helm chart for Kubernetes
+    digest: f72ce788ed2c2e17b11dad005c8f2f622ff093efa39fad005ab7aee7d2bc13cd
+    name: simple-chart
+    type: application
+    urls:
+    - https://rich77926.github.io/helm-repo/simple-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-14T19:46:43.30525+08:00"
     description: A Helm chart for Kubernetes
     digest: f9d7bc4577e849e7c9f54464fbef47a2f9f3b2a6625c042bfd757fbd96d9cc06
     name: simple-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://rich77926.github.io/helm-repo/simple-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-14T19:12:28.583761+08:00"
+generated: "2023-01-14T19:46:43.304587+08:00"
